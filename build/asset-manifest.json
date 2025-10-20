@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b93bf750.css",
+    "main.js": "/static/js/main.59c03e7e.js",
+    "static/js/453.555e9bbd.chunk.js": "/static/js/453.555e9bbd.chunk.js",
+    "static/media/laravel.webp": "/static/media/laravel.4ce0b9e14d6f4486688a.webp",
+    "index.html": "/index.html",
+    "main.b93bf750.css.map": "/static/css/main.b93bf750.css.map",
+    "main.59c03e7e.js.map": "/static/js/main.59c03e7e.js.map",
+    "453.555e9bbd.chunk.js.map": "/static/js/453.555e9bbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b93bf750.css",
+    "static/js/main.59c03e7e.js"
+  ]
+}
